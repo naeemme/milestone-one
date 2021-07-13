@@ -165,7 +165,7 @@ li a {
 
 /* work inquiry */
 .container {
-	background-image: url(/images/my-photo/banner.png);
+	background-image: url(images/banner.png);
 	background-position: center;
 	background-size: cover;
 	margin: 80px 100px;
@@ -194,7 +194,7 @@ li a {
 	font-weight: lighter;
 	font-size: 70px;
 	margin-top: 58px;
-	color: white;
+	color: tomato;
 }
 /* footer */
 
